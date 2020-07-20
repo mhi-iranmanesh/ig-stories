@@ -54,4 +54,5 @@ $ npm run start:prod
 ## How to use
 
 localhost:3000/stories/[username]
+
 You must [username] in url for get stories.
