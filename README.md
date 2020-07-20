@@ -30,9 +30,8 @@
 
 ## Installation
 ```bash
-install Node.js in windows
+[install Node.js in windows](https://phoenixnap.com/kb/install-node-js-npm-on-windows)
 ```
-https://phoenixnap.com/kb/install-node-js-npm-on-windows
 
 ```bash
 install Node.js in linux
