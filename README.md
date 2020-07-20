@@ -29,14 +29,10 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
-```bash
-[install Node.js in windows](https://phoenixnap.com/kb/install-node-js-npm-on-windows)
-```
 
-```bash
-install Node.js in linux
-```
-https://www.geeksforgeeks.org/installation-of-node-js-on-linux/
+[install Node.js in windows](https://phoenixnap.com/kb/install-node-js-npm-on-windows)
+
+[install Node.js in linux](https://www.geeksforgeeks.org/installation-of-node-js-on-linux/)
 
 ```bash
 $ npm install
